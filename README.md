@@ -97,16 +97,14 @@ Google AI Studio • MetaMask • Notion API • JIRA API • Docker
 
 ## 📊 GitHub Stats
 
-```md
+md
 ![Lavansh’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavansh1306&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavansh1306&layout=compact&theme=tokyonight)
-```
 
----
 
 ## 🧩 Tech Badges
 
-```md
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -114,9 +112,7 @@ Google AI Studio • MetaMask • Notion API • JIRA API • Docker
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-```
 
----
 
 ## 💬 Contact
 
