@@ -51,8 +51,7 @@ I'm a full-stack engineer who doesn’t sit around polishing tutorials—I build
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **Stock_Verse** | Real-time stock analysis and visualization platform. | `Next.js` `Tailwind` `Finance API` |
-| **Raksha** | AI-powered safety and alert system. | `Python` `AI/ML` `Twilio` |
+| **Stock_Verse** | <img src="https://private-user-images.githubusercontent.com/180001675/523259401-41ed4a1a-a989-41a2-b35a-2f9d0e2131f4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjUwMTE2NDMsIm5iZiI6MTc2NTAxMTM0MywicGF0aCI6Ii8xODAwMDE2NzUvNTIzMjU5NDAxLTQxZWQ0YTFhLWE5ODktNDFhMi1iMzVhLTJmOWQwZTIxMzFmNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIwNlQwODU1NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYjNiZjU5YTExYWFhN2FjMTU5Y2E0YzA4OTY5NGJiZWM0ODdlN2Q5ZjQ5Y2Y4ZDdiMGI0OTIwNDA4MmNlNDJiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dKEHU1SL5Ar9KdmWHshgt_B1vzppfZgSrJSlxPsJe-g" width="100%" /> | `React.js` `Tailwind CSS` `Yahoo Finance API` || **Raksha** | AI-powered safety and alert system. | `Python` `AI/ML` `Twilio` |
 | **Spark-Animate** | (Add description here) | `TypeScript` `Animation` |
 
 ---
