@@ -1,12 +1,33 @@
 <div align="center">
 
-# 🚀 Lavansh | Full-Stack Engineer • AI Developer • Product Builder
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+Engineer;Building+AI+Products;Arch+Linux+Enthusiast;Shipping+Fast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=60&pause=1000&color=22D3EE&center=true&vCenter=true&width=1100&lines=LAVANSH+CHOUBEY" alt="Typing SVG" />
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=%3E+sudo+pacman+-S+ai-architect+full-stack;%3E+loading+modules...+%5BOK%5D;%3E+executing+hackathon_wins.sh;%3E+Arch+Linux+User+detected..." alt="Typing SVG" />
 </a>
 
 <br/>
+
+<p>
+  <a href="https://github.com/lavansh1306">
+    <img src="https://img.shields.io/badge/ROOT-100000?style=for-the-badge&logo=github&logoColor=white&color=black" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lavansh-choubey/">
+    <img src="https://img.shields.io/badge/LINK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" height="30"/>
+  </a>
+  <a href="https://lavansh-choubey-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/DEPLOY-FF0080?style=for-the-badge&logo=vercel&logoColor=white&color=black" height="30"/>
+  </a>
+  <a href="mailto:lavansh1201a@gmail.com">
+    <img src="https://img.shields.io/badge/PING-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" height="30"/>
+  </a>
+</p>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=lavansh1306&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
@@ -14,7 +35,9 @@
 
 <br/>
 
----
+</div>
+
+</div>
 
 ### ⚡ About Me
 
