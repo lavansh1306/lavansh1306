@@ -86,7 +86,7 @@ I'm a full-stack engineer who doesn’t sit around polishing tutorials—I build
 
 If it's about building something meaningful or winning something together, message me.
 
-<a href="mailto:lavansh1306@gmail.com">
+<a href="mailto:lavansh1201a@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://lavansh-choubey-portfolio.vercel.app">
