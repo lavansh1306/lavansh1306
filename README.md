@@ -55,11 +55,17 @@ Only what I actually use and ship with:
 
 ## 📊 GitHub Stats
 
-
 ![Lavansh’s GitHub Stats](https://github-readme-stats-nu-two-13.vercel.app/api?username=lavansh1306&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lavansh1306/lavansh1306/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lavansh1306/lavansh1306/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lavansh1306/lavansh1306/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ## 💬 Contact
+
 
 If it's about building something meaningful or winning something together, message me.
 
