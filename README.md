@@ -72,7 +72,7 @@ I'm a full-stack engineer who doesn’t sit around polishing tutorials—I build
       <img src="https://github-readme-stats-nu-two-13.vercel.app/api?username=lavansh1306&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavansh1306&theme=tokyonight&hide_border=true" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=lavansh1306&theme=github-dark-blue&hide_border=true" />
     </td>
   </tr>
 </table>
