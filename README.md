@@ -20,7 +20,7 @@
 
 </div>
 
-### ⚡ About Me
+### ⚡ About
 
 I'm a full-stack engineer who doesn’t sit around polishing tutorials—I build products, win hackathons, and deploy real stuff that people actually use.
 <br/>
